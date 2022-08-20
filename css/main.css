@@ -1,0 +1,25 @@
+
+ .header {
+     background-color: rgb(166, 168, 168);
+ }
+ 
+
+.header .navbar-light .navbar-nav .active>.nav-link {
+    background-color: cadetblue;
+    color: #fff;
+}
+
+
+
+ .alert-primary {
+     background-color: aqua;
+ }
+
+ .grand {
+     background-color: teal;
+     padding: 60px 0;
+ }
+ img{
+     width: 50%;
+ }
+ 
